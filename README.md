@@ -1,6 +1,11 @@
 <div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Time_series">
+          <img width="45%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/timeseries.png" />
+        </a>
+    </p>
 
-# **`Awesome`** [Time Series](https://wikipedia.org/wiki/Time_series) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Time Series](https://www.ibm.com/think/topics/time-series-model) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
