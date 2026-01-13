@@ -23,6 +23,9 @@ ______________________________________________________________________
 </p>
 
 ## 📖 Contents
+- [Time-series Database](#time-series-database)
+- [Machine Learning Toolkit for Time Series Analysis](#machine-learning-toolkit-for-time-series-analysis)
+- [Miscellaneous](#miscellaneous)
 - [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
